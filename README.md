@@ -8,7 +8,7 @@ Download e Instalação
 2. Instalar o node
 3.No cmd 'cd "local" '
 4. No cmd 'npm install' para instalar as dependencias
-4. Iniciar o localhost 'npm start'
+5. Iniciar o localhost 'npm start'
 
  :D
 
