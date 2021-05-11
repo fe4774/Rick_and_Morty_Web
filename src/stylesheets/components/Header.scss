@@ -1,0 +1,14 @@
+@import '../core/mixins.scss';
+
+.Header {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__img {
+    height: 80px;
+    @include desktop {
+      height: 120px;
+    }
+  }
+}
